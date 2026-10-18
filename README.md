@@ -1,7 +1,3 @@
-<p>
-  <img src="./assets/header.svg" width="100%" alt="Kevin Ramírez — Systems Engineering student">
-</p>
-
 ## About me
 
 I'm Kevin Ramírez, a **fourth-semester Systems Engineering student**.
