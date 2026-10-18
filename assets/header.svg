@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Kevin Ramírez</title>
+  <desc id="desc">Fourth-semester Systems Engineering student interested in software engineering.</desc>
+  <rect width="1200" height="270" rx="12" fill="#13252d"/>
+  <text x="55" y="110" fill="#f3f4ed" font-family="Georgia, 'Times New Roman', serif" font-size="70" font-weight="400">Kevin Ramírez</text>
+  <text x="59" y="161" fill="#b7c9cc" font-family="Arial, Helvetica, sans-serif" font-size="24">Systems Engineering student</text>
+  <path d="M59 198H1141" stroke="#35515a" stroke-width="1"/>
+  <text x="59" y="235" fill="#8bd5b5" font-family="Arial, Helvetica, sans-serif" font-size="17">Fourth semester · Software engineering</text>
+  <text x="1141" y="235" text-anchor="end" fill="#b7c9cc" font-family="Arial, Helvetica, sans-serif" font-size="17">Java / Oracle / Python</text>
+</svg>
