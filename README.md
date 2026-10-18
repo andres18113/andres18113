@@ -1,10 +1,16 @@
+# Hi, I'm Kevin Ramírez
+
 ## About me
 
-I'm Kevin Ramírez, a **fourth-semester Systems Engineering student**.
+I'm a **fourth-semester Systems Engineering student at Universidad Central del Ecuador**.
 
-I'm particularly interested in **software engineering**. I enjoy learning how to plan an application, organize its code, and turn an idea into something that works.
+I'm particularly interested in software engineering. I enjoy learning how to plan an application, organize its code, and turn an idea into something that works.
 
-My university work involves **Java, Oracle, and Python**. I'm continuing to develop my programming skills as I work through my degree.
+## Currently learning
+
+- Algorithms and problem-solving.
+- Operating systems.
+- Software design and development fundamentals.
 
 ## Languages & tools
 
@@ -15,3 +21,16 @@ My university work involves **Java, Oracle, and Python**. I'm continuing to deve
 </p>
 
 **Java** &nbsp; · &nbsp; **Oracle** &nbsp; · &nbsp; **Python**
+
+For coursework, I use **Apache NetBeans**, **IntelliJ IDEA**, and **Process Dashboard**.
+
+## GitHub Statistics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andres18113&amp;theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andres18113&amp;theme=github" alt="GitHub statistics for andres18113">
+</picture>
+
+---
+
+Thanks for visiting my profile!
